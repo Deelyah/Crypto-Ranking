@@ -1,0 +1,27 @@
+<template>
+  <div>
+    <router-link>
+      <div>
+        <span>Icon</span>
+        <span>Coin</span>
+      </div>
+    </router-link>
+    <router-link>
+        <span>Icon</span>
+        <span>Exchanges</span>
+    </router-link>
+    <router-link>
+        <span>Icon</span>
+        <span>Swap</span>
+    </router-link>
+    <router-link>
+        <span>Icon</span>
+        <span>API</span>
+    </router-link>
+    <router-link>
+        <img src="../../assets/settings.png" width="15" height="15" class="settings-icon"/>
+        <span>Settings</span>
+    </router-link>
+    <router-link></router-link>
+  </div>
+</template>
